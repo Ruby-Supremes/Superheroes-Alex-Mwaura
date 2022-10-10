@@ -21,7 +21,4 @@ class HerosController < ApplicationController
         render json: { error: "Hero not found" }, status: :not_found
       end
     
-      def render_unprocessable_entity_response(invalid)
-        render json: { errors: invalid.record.errors }, status: :unprocessable_entity
-      end
 end
