@@ -15,7 +15,7 @@ OS [either: Windows 10+, Linux or MacOS(running on x86 or arm architecture)]. Ru
 
 Open a terminal / command line interface on your computer.
 
-Clone the repo by using the following: git@github.com:murphy790/movie-app.git.
+Clone the repo by using the following: https://github.com/Ruby-Supremes/Superheroes-Alex-Mwaura.git
 
 Change directory to the repo folder: Then open the folder in your text editor.
 
